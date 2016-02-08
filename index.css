@@ -1,0 +1,12 @@
+.flexContainer
+{
+	display: flex;
+	background-color: grey;
+}
+
+.flexItem
+{
+	padding: 1em;
+	margin: 1em;
+	background-color: red;
+}
